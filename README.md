@@ -22,7 +22,7 @@ The program analyzes populations, selects the appropriate infection scenario bas
 
 ## Project Structure
 
-virus_propagation.ipynb  # Main notebook containing the simulation and analysis
+virus_propagation.ipynb  Main notebook containing the simulation and analysis
 
 ## How It Works
 
@@ -51,7 +51,7 @@ These help better understand the propagation patterns.
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/virus_propagation.git
+git clone https://github.com/Fadall/virus_propagation.git
 
 2. Open the notebook
 
